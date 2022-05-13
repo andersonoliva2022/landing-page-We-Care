@@ -1,14 +1,14 @@
 # projeto-landing-page-We-Care-Figma
 
-<img src="./we-care.img" alt="image-landing-page">
+<img src="./printfigma.img" alt="image-landing-page">
 
-> Projeto simple feito com Figma que mostra o conceito de display flex e html semântico.
+> Projeto com design Figma que mostra o conceito de site responsível feito através de media screen.
 
 ### Ajustes e melhorias
 
 A próxima atualização será voltada na seguinte tarefa:
 
-- [ ] Próxima tarefa: tornar responsivo
+- [X] Próxima tarefa: tornar responsivo
 
 
 ## 🤝 Colaborador
